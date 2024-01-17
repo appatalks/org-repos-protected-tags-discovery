@@ -19,6 +19,12 @@ The action outputs a CSV file named `org_repo_report.csv` with columns `Reposito
 
 Download the `org_repo_report.csv` which can be accessed in the Actions tab of your GitHub repository.
 
+## Docs
+
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/configuring-tag-protection-rules
+
+https://docs.github.com/en/rest/repos/tags?apiVersion=2022-11-28
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
