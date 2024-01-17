@@ -1,6 +1,6 @@
 # Orginization and Repos Discovery of Visibility and Protected Tags
 
-This action lists all repositories in a given organization along with their visibility settings and protected tags status. The output is saved in a CSV file named `org_repo_report.csv`.
+This action lists all repositories in a given organization along with their visibility settings and protected tags status and identifiers. The output is saved in a CSV file named `org_repo_report.csv`.
 
 ## Requirements
 
