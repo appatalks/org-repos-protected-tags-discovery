@@ -16,6 +16,7 @@ This action lists all repositories in a given organization along with their visi
 ## Outputs
 
 The action outputs a CSV file named `org_repo_report.csv` with columns `Repository Name`, `Visibility`, `Protected Tags`, and `Tag Name`.
+
 Download the `org_repo_report.csv` which can be accessed in the Actions tab of your GitHub repository.
 
 ## Contributing
